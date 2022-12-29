@@ -1,4 +1,10 @@
-### Hi there 👋
+### HI! I'M STEVEN PARTLOW 💻
+
+👨‍🎓 Student with Pitman Training / The Tech Academy currently training in Software Development.
+
+👨‍💻 Hopeful Future Software Developer and Data Scientist.
+
+Welcome to my personal GitHub profile.
 
 <!--
 **ProfSFrink/ProfSFrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
