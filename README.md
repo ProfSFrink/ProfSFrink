@@ -1,10 +1,15 @@
 ### HI! I'M STEVEN PARTLOW 💻
 
-👨‍🎓 Student with Pitman Training / The Tech Academy currently training in Software Development.
+👨‍🎓 Graduate Software and Web Developer from Pitman Training, Ipswich, Suffolk, UK.
 
 👨‍💻 Hopeful Future Software Developer and Data Scientist.
 
-Welcome to my personal GitHub profile.
+Welcome to my personal GitHub portfolio this is a showcase of the work and projects I have done so far. 
+
+I am currently looking for work as a software or web developer, if you would like to contact me please email stevenpartlow@outlook.com or get in touch using the social media links provided.
+
+Thanks for reading
+
 
 <!--
 **ProfSFrink/ProfSFrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
