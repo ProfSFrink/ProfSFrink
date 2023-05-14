@@ -2,7 +2,7 @@
 
 👨‍🎓 Graduate Software and Web Developer from Pitman Training, Ipswich, Suffolk, UK.
 
-👨‍💻 Hopeful Future Software Developer and Data Scientist.
+👨‍💻 Hopeful Future Software & Web Developer.
 
 Welcome to my personal GitHub portfolio this is a showcase of the work and projects I have done so far. 
 
